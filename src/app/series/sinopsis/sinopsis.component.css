@@ -1,0 +1,84 @@
+.example-card{
+    width: 500px;
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 430px;
+}
+
+.card1{
+    border-radius: 7px;
+    margin-bottom: 40px;
+}
+
+.title{
+    margin-left: 95px;
+}
+
+.example-card img{
+    width: 460px;
+    padding: 0px 20px;
+}
+
+.example-card p{
+    text-align: justify;
+    padding: 0px 5px;
+}
+
+.example-card a{
+    text-decoration: none;
+    font-weight: 700;
+    color: #2c2c2c;
+}
+
+.example-card button{
+    margin-left: 200px;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+.example-card button:hover{
+    color: white;
+    background-color: #5e5ed5cd;
+}
+
+.card2{
+    border-radius: 7px;
+    margin-bottom: 40px;
+}
+
+.title2{
+    margin-left: 95px;
+}
+
+.card3{
+    border-radius: 7px;
+    margin-bottom: 40px;
+}
+
+.title3{
+    margin-left: 150px;
+}
+
+.card4{
+    border-radius: 7px;
+    margin-bottom: 40px;
+}
+
+.title4{
+    margin-left: 120px;
+}
+
+.card5{
+    border-radius: 7px;
+    margin-bottom: 40px;
+}
+
+.title5{
+    margin-left: 100px;
+}
