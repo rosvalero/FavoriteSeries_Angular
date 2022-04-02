@@ -1,0 +1,1 @@
+# FavoriteSeries_Angular
